@@ -220,3 +220,10 @@ __pycache__/
 # Virtual Environment
 venv/
 .env
+
+# Visual Studio folder
+.vs/
+
+# Confidentials and token
+credentials.json
+token.json
